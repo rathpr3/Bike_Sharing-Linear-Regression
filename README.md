@@ -1,4 +1,4 @@
-# Bike_Sharing-Linear-Regression
+# Bike_Sharing-Linear-Regression(Supervised Learning)
 US bike-sharing provider BoomBikes  is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
